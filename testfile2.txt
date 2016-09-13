@@ -6,3 +6,5 @@ fix-b.
 
 feature-C.
 fix typo.
+
+change by different people.
